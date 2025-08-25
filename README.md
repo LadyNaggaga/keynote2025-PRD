@@ -1,9 +1,3 @@
-I love that idea! A good PRD is the foundation of any project, and having it in a clean, readable format like Markdown with emojis will make it perfect for a demo.
-
-Here is the full PRD for "Conference Connect," ready to be put into a Markdown file.
-
----
-
 # 🚀 Product Requirements Document: Conference Connect
 
 **Owner:** Maria Naggaga
