@@ -1,0 +1,20 @@
+{
+  "name": "conference-connect",
+  "version": "1.0.0",
+  "description": "A Slack app to enhance conference networking and Q&A",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^3.17.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": ["slack", "conference", "networking", "bolt"],
+  "author": "Maria Naggaga",
+  "license": "MIT"
+}
